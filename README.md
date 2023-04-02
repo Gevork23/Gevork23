@@ -13,7 +13,7 @@
 
 - :zap: Хочу освоить 3D-modeling на высокий уровень и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhozhobadzho) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gevork2307@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Мой Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhozhobadzho) [![Gmail Badge](https://img.shields.io/badge/-Мой Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gevork2307@gmail.com)
 
 ---
 
