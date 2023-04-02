@@ -36,6 +36,7 @@
 ### 💻 Технологии:
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://static10.tgstat.ru/channels/_0/33/33acf54289c9267408370fcd8e7a6fe4.jpg" title="c++" alt="c++" width="40" height="40"/>&nbsp
   <img src="https://www.seekpng.com/png/full/65-652129_soundwave-analytics-limited-logo.png" title="c#" alt="c#" width="40" height="40"/>&nbsp
