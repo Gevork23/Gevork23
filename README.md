@@ -13,7 +13,7 @@
 
 - :zap: Хочу освоить 3D-modeling на высокий уровень и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Мой Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhozhobadzho) [![Gmail Badge](https://img.shields.io/badge/-Мой Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gevork2307@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Мой_Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhozhobadzho) [![Gmail Badge](https://img.shields.io/badge/-Мой_Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gevork2307@gmail.com)
 
 ---
 
@@ -36,7 +36,7 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbs
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="40" height="40"/>&nbsp;
 </div>
