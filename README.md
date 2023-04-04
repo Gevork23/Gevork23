@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий 3D-Modeler<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в 3D начался в университете на Blender. После я начал изучать Unreal Engen 5, где сделал свой первый синематик. Сейчас я учусь на 3м курсе в ДГТУ по направлению "Разработчик игр и прикладных программ".
+Я начинающий 3D-Modeler<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в 3D начался в университете на Blender. После я начал изучать Unreal Engine 5, где сделал свой первый синематик. Сейчас я учусь на 3м курсе в ДГТУ по направлению "Разработчик игр и прикладных программ".
 
 - :telescope: Изучаю 3D-Моделирование самостоятельно с помощью различных гайдов и видео!
 
@@ -50,13 +50,16 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="nrealegine" alt="unrealengine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 </div>
 
 ---
+### Cinematik:
+##### made on Unreal Engine and Blender
+https://user-images.githubusercontent.com/81191782/229910599-05de0125-dbf5-40aa-968c-80a5dfe1f78c.mov
 
 ### 💻 Пройденные курсы:
 
