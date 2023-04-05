@@ -1,23 +1,28 @@
 
-# Привет, меня зовут Геворк!
+# Hi, my name is Gevork!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
+I am a beginner 3D Modeler<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in 3D began at the university on Blender. After that, I started studying Unreal Engine 5, where I made my first cinematics. Now I am studying in the 3rd year at DSTU in the direction of "Developer of games and application programs".
 
-Я начинающий 3D-Modeler<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в 3D начался в университете на Blender. После я начал изучать Unreal Engine 5, где сделал свой первый синематик. Сейчас я учусь на 3м курсе в ДГТУ по направлению "Разработчик игр и прикладных программ".
+Я начинающий 3D Modeler 🧊 . Мой путь в 3D начался в университете на Blender. После я начал изучать Unreal Engine 5, где сделал свой первый синематик. Сейчас я учусь на 3м курсе в ДГТУ по направлению "Разработчик игр и прикладных программ".
 
-- :telescope: Изучаю 3D-Моделирование самостоятельно с помощью различных гайдов и видео!
+- :telescope: I study 3D Modeling on my own with the help of various guides and videos!  
+<br/> 👨‍🏫 Изучаю 3D-Моделирование самостоятельно с помощью различных гайдов и видео!
 
-- :seedling: Обязательно добьюсь того, что я себе наметил.
+- :seedling: I will definitely achieve what I have planned for myself.  
+<br/> 💪 Обязательно добьюсь того, что я себе наметил.
 
-- :zap: Хочу освоить 3D-modeling на высокий уровень и найти работу.
+- :zap: I want to master 3D modeling to a high level and find a job.  
+<br/> 🔜 Хочу освоить 3D-modeling на высокий уровень и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Мой_Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhozhobadzho) [![Gmail Badge](https://img.shields.io/badge/-Мой_Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gevork2307@gmail.com)
+- :mailbox: How to contact me:  
+<br/> 📪 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Мой_Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhozhobadzho) [![Gmail Badge](https://img.shields.io/badge/-Мой_Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gevork2307@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 My Social Networks:
 
   <div id="badges">
     <a href="https://t.me/zhozhobadzho" target="_blank">
@@ -34,7 +39,8 @@
 ---
 
 ### 💻 Технологии:
-
+Everything is a little bit
+Всё по чуть чуть
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -57,30 +63,25 @@
 </div>
 
 ---
-### 🎥 Cinematik:
-##### made on Unreal Engine and Blender
-https://user-images.githubusercontent.com/81191782/229910599-05de0125-dbf5-40aa-968c-80a5dfe1f78c.mov
 
-### 💻 Пройденные курсы:
+### 3D Models:
+##### made on Blender
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+![Топор](https://user-images.githubusercontent.com/81191782/230036615-7ca6a596-ea99-4571-b9ee-631545a2b60f.png)
+![Кружки](https://user-images.githubusercontent.com/81191782/230036659-d04c849a-ff52-417b-aa06-fccdd98a8ced.png)
+![Комната с диваном](https://user-images.githubusercontent.com/81191782/230038529-64c2fa23-8fb8-4877-a8eb-a65bb27812bb.png)
+![Остров](https://user-images.githubusercontent.com/81191782/230036689-260abc37-0771-4c58-9331-373499edc0b6.png)
+
 
 ---
 
-### 💻 Codewars:
+### 🎥 Cinematik:
+##### made on Unreal Engine and Blender
 
-![codewars](https://www.codewars.com/users/Gevork23/badges/large)
+https://user-images.githubusercontent.com/81191782/229910599-05de0125-dbf5-40aa-968c-80a5dfe1f78c.mov
 
-### ⚙️ GitHub статистика:
+
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
