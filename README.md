@@ -71,7 +71,9 @@ Everything is a little bit
 ![Кружки](https://user-images.githubusercontent.com/81191782/230036659-d04c849a-ff52-417b-aa06-fccdd98a8ced.png)
 ![Комната с диваном](https://user-images.githubusercontent.com/81191782/230038529-64c2fa23-8fb8-4877-a8eb-a65bb27812bb.png)
 ![Остров](https://user-images.githubusercontent.com/81191782/230036689-260abc37-0771-4c58-9331-373499edc0b6.png)
-![Wallet](https://user-images.githubusercontent.com/81191782/232233596-8a123d57-1648-48f7-9f46-4e8d42a548cf.mp4)
+![Wallet](https://user-images.githubusercontent.com/81191782/232233949-6a241bfe-3ff0-48ba-8249-bb6dfc0abaee.mov)
+
+
 
 
 
