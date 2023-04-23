@@ -71,11 +71,10 @@ Everything is a little bit
 ![Кружки](https://user-images.githubusercontent.com/81191782/230036659-d04c849a-ff52-417b-aa06-fccdd98a8ced.png)
 ![Комната с диваном](https://user-images.githubusercontent.com/81191782/230038529-64c2fa23-8fb8-4877-a8eb-a65bb27812bb.png)
 ![Остров](https://user-images.githubusercontent.com/81191782/230036689-260abc37-0771-4c58-9331-373499edc0b6.png)
-![Wallet](https://user-images.githubusercontent.com/81191782/232233949-6a241bfe-3ff0-48ba-8249-bb6dfc0abaee.mov)
-
-
-
-
+![Wallet_preview](https://user-images.githubusercontent.com/81191782/233836167-3a9f1dd4-a073-4038-8c2b-426bd3e09fa0.mp4)
+Ссылка на оригинал - https://disk.yandex.ru/i/DvcfRkI_k6E0FQ
+![Forrest_preview](https://user-images.githubusercontent.com/81191782/233836217-2417ba7a-5a1d-494c-884a-3264875ce1a6.png)
+Ссылка на оригинал - https://disk.yandex.ru/d/535YB9X8C2PH4Q
 
 ---
 
