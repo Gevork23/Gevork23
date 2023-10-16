@@ -8,14 +8,14 @@ I am a beginner 3D Modeler<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 Я начинающий 3D Modeler 🧊 . Мой путь в 3D начался в университете на Blender. После я начал изучать Unreal Engine 5, где сделал свой первый синематик. Сейчас я учусь на 4м курсе в ДГТУ по направлению "Разработчик игр и прикладных программ".
 
-- :telescope: I study 3D Modeling on my own with the help of various guides and videos!  
-<br/> 👨‍🏫 Изучаю 3D-Моделирование самостоятельно с помощью различных гайдов и видео!
+- :telescope: I study 3D Modeling both independently, with the help of various guides and videos, and with the help of work!  
+<br/> 👨‍🏫 Изучаю 3D-Моделирование как самостоятельно, с помощью различных гайдов и видео, так и с помощью работы!
 
 - :seedling: I will definitely achieve what I have planned for myself.  
 <br/> 💪 Обязательно добьюсь того, что я себе наметил.
 
-- :zap: I want to master 3D modeling to a high level and find a job.  
-<br/> 🔜 Хочу освоить 3D-modeling на высокий уровень и найти работу.
+- :zap: I want to find a job in my field of activity and be the right employee.  
+<br/> 🔜 Хочу найти работу по своей сфере деятельности и быть нужным сотрудником.
 
 - :mailbox: How to contact me:  
 <br/> 📪 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Мой_Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhozhobadzho) [![Gmail Badge](https://img.shields.io/badge/-Мой_Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gevork2307@gmail.com)
