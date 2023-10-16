@@ -4,9 +4,9 @@
 ---
 
 ### :man_technologist: About me:
-I am a beginner 3D Modeler<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in 3D began at the university on Blender. After that, I started studying Unreal Engine 5, where I made my first cinematics. Now I am studying in the 3rd year at DSTU in the direction of "Developer of games and application programs".
+I am a beginner 3D Modeler<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in 3D began at the university on Blender. After that, I started studying Unreal Engine 5, where I made my first cinematics. Now I am studying in the 4th year at DSTU in the direction of "Developer of games and application programs".
 
-Я начинающий 3D Modeler 🧊 . Мой путь в 3D начался в университете на Blender. После я начал изучать Unreal Engine 5, где сделал свой первый синематик. Сейчас я учусь на 3м курсе в ДГТУ по направлению "Разработчик игр и прикладных программ".
+Я начинающий 3D Modeler 🧊 . Мой путь в 3D начался в университете на Blender. После я начал изучать Unreal Engine 5, где сделал свой первый синематик. Сейчас я учусь на 4м курсе в ДГТУ по направлению "Разработчик игр и прикладных программ".
 
 - :telescope: I study 3D Modeling on my own with the help of various guides and videos!  
 <br/> 👨‍🏫 Изучаю 3D-Моделирование самостоятельно с помощью различных гайдов и видео!
