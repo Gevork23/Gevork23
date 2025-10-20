@@ -14,14 +14,14 @@
 ### 💻 Языки программирования
 - Python 3
 - SQL (SQLite)  
-- HTML / CSS (базовый уровень)
+- HTML / CSS
 
 ### 🧱 Фреймворки и библиотеки
 - Django, Django REST Framework (DRF)  
 - Pytest, Unittest  
 - Requests, PyTelegramBotAPI, Logging  
 - Djoser, drf-yasg (Swagger)  
-- Pygame (начальный уровень)  
+- Pygame  
 
 ### 🗄️ Базы данных
 - SQLite
@@ -88,7 +88,7 @@
 ## 🎓 Образование
 
 Яндекс Практикум  
-📘 Курс: *Python-разработчик*  
+📘 Курс: *Python-разработчик расширенный*  
 🕓 2024 — 2025  
 Изучено: Python, ООП, алгоритмы, Django, REST API, тестирование, базы данных, Telegram API, деплой проектов.
 
@@ -107,8 +107,8 @@
 
 ## 📫 Контакты
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+- 📧 Email: [gevork230702@mail.ru](mailto:gevork230702@mail.ru)  
+- 💼 GitHub: [https://github.com/gevork23](https://github.com/gevork23)  
 - 🔗 LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
 - 🌍 Telegram: [@yourusername](https://t.me/yourusername)
 
@@ -117,26 +117,7 @@
 ⭐ *Этот профиль отражает мой путь в разработке — от основ Python до создания полноценных backend-приложений на Django и DRF.*  
 Готов к сотрудничеству, участию в проектах и развитию в команде профессионалов.
 
-- :mailbox: How to contact me:  
-<br/> 📪 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Мой_Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhozhobadzho) [![Gmail Badge](https://img.shields.io/badge/-Мой_Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gevork2307@gmail.com)
 
----
-
-### 🤝 My Social Networks:
-
-  <div id="badges">
-    <a href="https://t.me/zhozhobadzho" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/oski.txaim" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    <a href="https://dzen.ru/id/64299229e590f52c87745441" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
-    </a>
-  </div>
-
----
 
 ### 💻 Технологии:
 Everything is a little bit
