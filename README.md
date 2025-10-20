@@ -84,18 +84,27 @@
 ---
 
 ## 🎓 Образование
-Донской государственный технический университет, Ростов-на-Дону
-09.04.02 Информационные системы и технологии - Интеллектуальные медиатехнологии
-2026 учусь · Магистр
+👨‍🎓 ДГТУ
+📘 09.04.02 Информационные системы и технологии - Интеллектуальные медиатехнологии
+🕓 2024 - 2026 учусь · Магистр
 
-Донской государственный технический университет, Ростов-на-Дону
-09.03.03 Прикладная информатика - Разработка игр и прикладных программ
-2024 выпустился · Бакалавр
+👨‍🎓 ДГТУ
+📘 09.03.03 Прикладная информатика - Разработка игр и прикладных программ
+🕓 2020 - 2024 выпустился · Бакалавр
 
-Яндекс Практикум  
+👨‍🎓 Яндекс Практикум  
 📘 Курс: *Python-разработчик расширенный*  
-🕓 2024 — 2025  
-Изучено: Python, ООП, алгоритмы, Django, REST API, тестирование, базы данных, Telegram API, деплой проектов.
+🕓 2024 — 2025
+
+### 📔 Курсы
+✍️ Интернет-маркетинг
+🕓 2024
+
+✍️ Администрирование операционных систем семейства Linux
+🕓 2023
+
+✍️ Обеспечение безопасности персональных данных при их обработке в информационных системах персональных данных
+🕓 2024
 
 ---
 
@@ -114,8 +123,8 @@
 
 - 📧 Email: [gevork230702@mail.ru](mailto:gevork230702@mail.ru)  
 - 💼 GitHub: [https://github.com/gevork23](https://github.com/gevork23)  
-- 🔗 LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🌍 Telegram: [@yourusername](https://t.me/yourusername)
+- 🔗  : [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 🌍 Telegram: [@oski_txa](https://t.me/@ski_txa)
 
 ---
 
@@ -125,14 +134,15 @@
 
 
 ### 💻 Технологии:
-Everything is a little bit
-Всё по чуть чуть
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://static10.tgstat.ru/channels/_0/33/33acf54289c9267408370fcd8e7a6fe4.jpg" title="c++" alt="c++" width="40" height="40"/>&nbsp
   <img src="https://www.seekpng.com/png/full/65-652129_soundwave-analytics-limited-logo.png" title="c#" alt="c#" width="40" height="40"/>&nbsp
-  <img src="https://www.desura.com/files/images/65/65f875b0aa3b0eb635d4f76bfebca0f6.png" title="html" alt="html" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://luxe-host.ru/wp-content/uploads/3/1/6/316df50bcf36dccbe19dd219abf85b16.png" title="css" alt="css" width="40" height="40"/>&nbsp
 </div>
 
