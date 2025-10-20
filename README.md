@@ -122,7 +122,7 @@
 ## 📫 Контакты
 - 📧 Email: [gevork230702@mail.ru](mailto:gevork230702@mail.ru)  
 - 💼 GitHub: [github.com/Gevork23](https://github.com/Gevork23)  
-- 🔗 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 👨‍🎨 ArtStation: [artstation/gevork23](http://www.artstation.com/gevork23)  
 - 🌍 Telegram: [@oski_txa](https://t.me/oski_txa)
 
 ---
