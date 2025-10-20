@@ -1,5 +1,3 @@
-
-# Hi, my name is Gevork!
 # 🧑‍💻 Python / Django Developer
 
 ## 👋 О себе
