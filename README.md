@@ -35,15 +35,15 @@
 * Django, Django REST Framework
 * Djoser, SimpleJWT
 * Pytest, Unittest
-* Celery (basic)
-* Redis (basic)
+* Celery
+* Redis
 * Requests
 * drf-yasg / Swagger
 * Logging
 
 ### 🗄 Databases
 
-* SQLite, PostgreSQL (basic)
+* SQLite, PostgreSQL
 * Проектирование схем БД
 * Оптимизация запросов:
 
@@ -76,7 +76,7 @@
 ### 🧰 Tools & Environment
 
 * Git / GitHub (PR, code review, branching)
-* Docker (basic)
+* Docker
 * Linux
 * VS Code
 * Postman / HTTPie
@@ -84,7 +84,7 @@
 * Deployment:
 
   * PythonAnywhere
-  * Gunicorn + Nginx (basic)
+  * Gunicorn + Nginx
 
 ### 🧩 Principles & Practices
 
