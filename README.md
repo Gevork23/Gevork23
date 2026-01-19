@@ -100,7 +100,9 @@
 
 ## 🚀 Projects
 
-### 🍽 Foodgram — Recipe Sharing Platform (Fullstack Backend)
+### 🍽 [Foodgram](https://oski.myftp.biz) — Recipe Sharing Platform (Fullstack Backend)
+
+**URL** [https://oski.myftp.biz](https://oski.myftp.biz)
 
 **Stack:** Django, Django REST Framework, PostgreSQL, Docker, Nginx, Gunicorn, JWT
 
