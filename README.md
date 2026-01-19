@@ -207,7 +207,7 @@
 
 * 📧 Email: [gevork230702@mail.ru](mailto:gevork230702@mail.ru)
 * 💼 GitHub: [https://github.com/Gevork23](https://github.com/Gevork23)
-* 💬 Telegram: @oski_txa
+* 💬 Telegram: [@oski_txa](http://t.me/oski_txa)
 * 🎨 ArtStation: [https://artstation.com/gevork23](https://artstation.com/gevork23)
 
 ---
@@ -230,7 +230,7 @@
 <table>
   <tr>
     <td>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=Gevork23&theme=dark&background=000000"/>
+      <img src="https://streak-stats.demolab.com?user=Gevork23&theme=dark&background=000000"/>
     </td>
     <td>
       <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gevork23&layout=compact&theme=vision-friendly-dark"/>
