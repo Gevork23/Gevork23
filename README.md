@@ -230,7 +230,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Gevork23&theme=dark"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gevork23&show_icons=true&theme=dark"/>
     </td>
     <td>
       <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gevork23&layout=compact&theme=vision-friendly-dark"/>
