@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) | 🇷🇺 Русский
+
 # 🧑‍💻 Python / Django Backend Developer (Middle)
 
 ---
