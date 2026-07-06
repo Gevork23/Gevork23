@@ -150,4 +150,4 @@ I combine deep knowledge of backend development with hands-on experience in syst
 
 ---
 
-⭐ **Open to remote Junior Backend Developer positions (Python/Django/FastAPI).**
+⭐ **Open to remote positions.**
