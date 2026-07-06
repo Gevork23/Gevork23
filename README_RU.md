@@ -1,245 +1,153 @@
-[🇬🇧 English](README.md) | 🇷🇺 Русский
+🇬🇧 [English](README.md) | 🇷🇺 Русский
 
-# 🧑‍💻 Python / Django Backend Developer (Middle)
-
----
-
-## 👋 About me
-
-Я backend-разработчик на Python с практическим опытом разработки веб-приложений и REST API на Django и Django REST Framework.
-
-Работаю с полноценным циклом backend-разработки:
-от проектирования архитектуры и схем БД до реализации бизнес-логики, тестирования, оптимизации и деплоя.
-
-Особое внимание уделяю:
-
-* качеству кода и читаемости
-* архитектуре и масштабируемости
-* производительности запросов
-* безопасности API
-* автоматизации тестирования
-
-Следую принципам **SOLID, DRY, KISS**, использую **PEP 8**, пишу поддерживаемый и расширяемый код.
-Ориентирован на командную разработку и работу с production-проектами.
+# 🧑‍💻 @Gevork23 (Геворк Мирзоян)
 
 ---
 
-## ⚙️ Technical Skills
+## 👋 Обо мне
 
-### 💻 Programming Languages
+Я Python-разработчик бэкенда с практическим опытом создания веб-приложений и REST API, а также развертывания готовых решений в продакшене.
 
-* Python 3 (advanced)
-* SQL
-* HTML / CSS
+Сочетаю глубокие знания в области бэкенд-разработки с практическим опытом системного администрирования и работы с Linux-инфраструктурой. Это позволяет мне создавать надежные, масштабируемые приложения и эффективно взаимодействовать с DevOps-процессами.
 
-### 🧱 Frameworks & Libraries
+### Что я приношу команде:
 
-* Django, Django REST Framework
-* Djoser, SimpleJWT
-* Pytest, Unittest
-* Celery
-* Redis
-* Requests
-* drf-yasg / Swagger
-* Logging
-
-### 🗄 Databases
-
-* SQLite, PostgreSQL
-* Проектирование схем БД
-* Оптимизация запросов:
-
-  * select_related / prefetch_related
-  * indexes
-  * queryset optimization
-* Транзакции и ограничения целостности
-
-### 🧠 Backend Development
-
-* Проектирование REST API
-* JWT / Token authentication
-* Permissions & roles
-* Pagination, filtering, ordering
-* Throttling & rate limits
-* Работа с файлами и изображениями
-* Background tasks (Celery – базово)
-* Интеграция внешних API
-* Обработка ошибок и логирование
-* Версионирование API
-
-### 🧪 Testing & Quality
-
-* Unit / Integration tests (Pytest)
-* Coverage
-* Debugging (pdb, Django Debug Toolbar)
-* Code review
-* Linters & formatting (flake8, black, isort)
-
-### 🧰 Tools & Environment
-
-* Git / GitHub (PR, code review, branching)
-* Docker
-* Linux
-* VS Code
-* Postman / HTTPie
-* CI/CD basics
-* Deployment:
-
-  * PythonAnywhere
-  * Gunicorn + Nginx
-
-### 🧩 Principles & Practices
-
-* OOP
-* MVC / MVT
-* REST
-* SOLID, DRY, KISS
-* Clean Code
-* TDD (на проектах)
-* Type hints
+- Чистый, поддерживаемый код, следующий принципам SOLID, DRY, KISS и PEP 8
+- Опыт работы с **Django**, **Django REST Framework**, **FastAPI**
+- Проектирование баз данных и оптимизация запросов (**PostgreSQL**, **SQLite**)
+- Контейнеризация приложений с помощью **Docker**
+- Покрытие кода тестами с использованием **pytest** и **unittest**
+- Навыки эффективной коммуникации и опыт работы в команде
+- Умение решать бизнес-задачи с помощью кода и автоматизировать рутинные процессы
 
 ---
 
-## 🚀 Projects
+## 🛠 Технологический стек
 
-### 🍽 [Foodgram](https://oski.myftp.biz) — Recipe Sharing Platform (Fullstack Backend)
+### Языки
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**URL** [https://oski.myftp.biz](https://oski.myftp.biz)
+### Фреймворки и библиотеки
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Stack:** Django, Django REST Framework, PostgreSQL, Docker, Nginx, Gunicorn, JWT
+### Базы данных
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-* Реализовал backend для сервиса публикации рецептов и подписок на авторов
-* Спроектировал модели и связи (Users, Recipes, Ingredients, Tags, Favorites, Subscriptions, Shopping Cart)
-* Разработал REST API для мобильного и веб-клиента
-* Реализовал модульную архитектуру backend-приложения
-* Реализовал:
-  * JWT-аутентификацию и систему ролей
-  * подписки на авторов
-  * избранное и список покупок
-  * фильтрацию и поиск рецептов по тегам и ингредиентам
-* Оптимизировал запросы с использованием `select_related` и `prefetch_related`
-* Настроил загрузку и хранение изображений
-* Покрыл ключевую бизнес-логику тестами
-* Подготовил проект к production:
-  * Docker Compose
-  * Gunicorn + Nginx
-  * переменные окружения
-  * миграции и сбор статики
+### Тестирование и качество
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=0a9edc)
+![Flake8](https://img.shields.io/badge/flake8-008000?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗂 REST API "YaNote"
-
-**Stack:** Django REST Framework, PostgreSQL, JWT, Djoser, Swagger
-
-* Спроектировал архитектуру API
-* Реализовал CRUD для пользователей и заметок
-* JWT-аутентификация и система прав доступа
-* Пагинация, фильтрация, тротлинг
-* Оптимизация запросов через ORM
-* Документация API через Swagger
-* Покрытие ключевой логики тестами
+### Инструменты и DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📰 Web application "Blogicum"
+## 🚀 Ключевые проекты
 
-**Stack:** Django, SQLite, Bootstrap
+### 🗣 Голосовой бот для МФЦ — Продакшен-решение
 
-* Многостраничное приложение с авторизацией
-* Реализация CRUD через CBV
-* Оптимизация SQL-запросов
-* Кастомизация админ-панели
-* Пагинация, фильтрация, поиск
-* Работа с формами и валидацией
+**Стек:** Python, aiogram, REST API, Webhooks, TTS (синтез речи)
 
----
+- Разработал и развернул **голосовой бот-уведомитель** для центра госуслуг (МФЦ) для трансляции объявлений в зале ожидания
+- Интегрировал с мессенджерами **Telegram** и **VK** через **webhooks** с использованием **aiogram**
+- Реализовал **REST API (GET/POST)** между интерфейсом администратора и системой воспроизведения
+- Настроил синтез речи (TTS) для преобразования текстовых сообщений в голосовые объявления
+- Решил реальную бизнес-задачу с минимальным бюджетом, сократив ручную нагрузку на администраторов
 
-### 🤖 Telegram Bot "Practicum Bot"
-
-**Stack:** Python, Requests, Logging, PyTelegramBotAPI
-
-* Интеграция с внешним REST API
-* Асинхронная обработка событий
-* Логирование ошибок
-* Ретраи запросов
-* Деплой и поддержка в production
+**Результат:** Автоматизированная система массовых уведомлений, ежедневно используемая 20+ сотрудниками.
 
 ---
 
-### 🎮 Tic-Tac-Toe Game
+### 🍽 DineTogether — Командный проект: REST API для бронирования столов
 
-**Stack:** Python, OOP, Pygame
+**Стек:** FastAPI, PostgreSQL, Docker, Celery, Redis, Pytest, JWT
 
-* Архитектура на основе ООП
-* Консольная и GUI версии
-* Инкапсуляция, наследование, полиморфизм
-* Разделение логики и UI
+**Командный проект** (4 разработчика) в рамках выпускной работы Яндекс Практикума.
 
----
+- Разработал REST API для бронирования столов в ресторанах с ролевым доступом (USER, MANAGER, ADMIN)
+- Реализовал управление медиафайлами для кафе и блюд
+- Провел рефакторинг модуля аутентификации: убрал генерацию refresh_token для повышения безопасности
+- Исправил ошибки валидации и унифицировал формат ответов об ошибках для улучшения взаимодействия с фронтендом
+- Написал комплексное покрытие тестами с использованием **pytest**, снизив количество регрессионных ошибок
+- Использовал **Docker Compose** для локальной разработки и развертывания
 
-## 🎓 Education
-
-👨‍🎓 Донской государственный технический университет
-📘 Информационные системы и технологии (магистратура)
-🕓 2024 – 2026
-
-👨‍🎓 Донской государственный технический университет
-📘 Прикладная информатика (бакалавриат)
-🕓 2020 – 2024
-
-👨‍🎓 Yandex Practicum
-📘 Python Backend Developer (Advanced)
-🕓 2025 – 2026
+**Результат:** Полнофункциональный API-сервис с чистой архитектурой и высоким покрытием тестами.
 
 ---
 
-## 🧠 Additional
+### 🍳 Foodgram — Платформа для обмена рецептами (бэкенд)
 
-* Опыт командной разработки
-* Участие в code review
-* Проектирование архитектуры backend
-* Работа с техническим долгом
-* Оптимизация legacy-кода
-* Работа с англоязычной документацией
-* Понимание принципов DevOps
+**Стек:** Django, Django REST Framework, PostgreSQL, Docker, Nginx, Gunicorn, JWT
 
----
+**URL:** [https://oski.myftp.biz](https://oski.myftp.biz)
 
-## 📫 Contacts
-
-* 📧 Email: [gevork230702@mail.ru](mailto:gevork230702@mail.ru)
-* 💼 GitHub: [https://github.com/Gevork23](https://github.com/Gevork23)
-* 💬 Telegram: [@oski_txa](http://t.me/oski_txa)
-* 🎨 ArtStation: [https://artstation.com/gevork23](https://artstation.com/gevork23)
+- Построил бэкенд для платформы обмена рецептами с подписками и корзиной покупок
+- Спроектировал схему базы данных для пользователей, рецептов, ингредиентов, тегов, избранного и корзины
+- Реализовал JWT-аутентификацию, фильтрацию, поиск и оптимизацию запросов
+- Настроил продакшен-развертывание с помощью **Docker Compose**, **Gunicorn** и **Nginx**
 
 ---
 
-## 💻 Technologies
+### 🔧 Дополнительные проекты
 
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>
-</div>
+- **YaNote** — REST API для заметок (DRF, JWT, Swagger)
+- **Blogicum** — Многостраничный блог на Django с панелью администратора
+- **Practicum Bot** — Telegram-бот с интеграцией внешнего API
+- **Крестики-нолики** — Игра с GUI на Pygame, реализованная в ООП-стиле
 
 ---
 
-## ⚙️ GitHub Stats
+## 💼 Опыт работы
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gevork23&show_icons=true&theme=dark"/>
-    </td>
-    <td>
-      <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gevork23&layout=compact&theme=vision-friendly-dark"/>
-    </td>
-  </tr>
-</table>
+### Системный администратор и внутренний разработчик
+**МФЦ Мясниковского района (МАУ)** | 2024 — настоящее время
+
+- Поддерживал IT-инфраструктуру: 20+ рабочих станций, серверы, сеть
+- Автоматизировал рутинные задачи с помощью скриптов на **Python** и **Bash**
+- Разработал и развернул описанный выше **голосовой бот**
+- Обучал сотрудников и решал технические проблемы
 
 ---
 
-⭐ Open to middle backend positions, remote work and international projects.
+## 🎓 Образование
 
+🎓 **Донской государственный технический университет**
+* Информационные системы и технологии (магистратура) | 2024 – 2026
+
+🎓 **Донской государственный технический университет**
+* Прикладная информатика (бакалавриат) | 2020 – 2024
+
+🎓 **Яндекс Практикум**
+* Python-разработчик (продвинутый курс) | 2025 – 2026
+
+---
+
+## 📫 Контакты
+
+- 📧 [i@mirzoyan-gevork.ru](mailto:i@mirzoyan-gevork.ru)
+- 💼 [GitHub](https://github.com/Gevork23)
+- 💬 [Telegram](https://t.me/oski_txa)
+- 🎨 [ArtStation](https://artstation.com/gevork23) — 3D-арт и игровые проекты (хобби)
+
+---
+
+## 📊 Статистика GitHub
+
+[![Статистика Gevork](https://github-readme-stats.vercel.app/api?username=Gevork23&show_icons=true&theme=dark)](https://github.com/Gevork23)
+[![Топ языков](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gevork23&layout=compact&theme=vision-friendly-dark)](https://github.com/Gevork23)
+
+---
+
+⭐ **Открыт к удаленным вакансиям.**
