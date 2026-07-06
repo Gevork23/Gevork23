@@ -1,6 +1,6 @@
 🇬🇧 English | [🇷🇺 Русский](README_RU.md)
 
-# 🧑‍💻 Python / Django Backend Developer
+# 🧑‍💻 @Gevork23 (Gevork Mirzoyan)
 
 ---
 
