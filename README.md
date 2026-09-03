@@ -15,6 +15,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Чистый, поддерживаемый код, следующий принципам SOLID, DRY, KISS и PEP 8
 ![PEP 8](https://img.shields.io/badge/PEP_8-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flake8](https://img.shields.io/badge/flake8-008000?style=for-the-badge&logo=python&logoColor=white)
+![Black](https://img.shields.io/badge/black-000000?style=for-the-badge&logo=python&logoColor=white)
 ### Опыт работы с 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -31,8 +33,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ### Покрытие кода тестами с использованием
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=0a9edc)
-![Flake8](https://img.shields.io/badge/flake8-008000?style=for-the-badge&logo=python&logoColor=white)
-![Black](https://img.shields.io/badge/black-000000?style=for-the-badge&logo=python&logoColor=white)
 ### Навыки эффективной коммуникации и опыт работы в команде
 ### Умение решать бизнес-задачи с помощью кода и автоматизировать рутинные процессы
 
