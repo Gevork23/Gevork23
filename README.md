@@ -40,7 +40,7 @@
 
 ## 🚀 Ключевые проекты
 
-### 🗣 [Голосовой бот для МФЦ — Продакшен-решение](https://github.com/Gevork23/max_bot)
+### 🗣 [Голосовой бот для МФЦ](https://github.com/Gevork23/max_bot) — Продакшен-решение
 
 **Стек:** Python, aiogram, REST API, Webhooks, TTS (синтез речи)
 
