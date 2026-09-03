@@ -1,6 +1,6 @@
 🇷🇺 [Русский](README.md) | en English
 
-# 🧑‍💻 Gevork Mirzoyan
+# 🧑‍💻 Mirzoyan Gevork
 
 ---
 
